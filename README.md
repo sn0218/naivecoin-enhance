@@ -12,7 +12,7 @@ The original repository
 https://github.com/lhartikk/naivecoin/tree/master 
 ```
 
-### Installation
+## Installation
 ### Install NPM
 ```
 npm install
