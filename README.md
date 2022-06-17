@@ -1,9 +1,13 @@
 # Naivecoin
 
-This is the enhanced version of naivecoin. <br />
-Merkle root calculation is implemented and the Merkle root hash is added in each block.<br />
-The original naivecoin tutorial: https://lhartikk.github.io/ <br />
-The original repository  https://github.com/lhartikk/naivecoin/tree/master <br />
+## Description
+This is the enhanced version of naivecoin. Merkle root calculation is implemented and the Merkle root hash is added in each block.
+```
+The naivecoin tutorial: 
+https://lhartikk.github.io/ 
+The original repository  
+https://github.com/lhartikk/naivecoin/tree/master 
+```
 
 ### Install
 ```
